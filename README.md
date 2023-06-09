@@ -1,4 +1,4 @@
-## Olá, meu nome é <strong>{Manassés Almeida}!</strong>
+## Olá, meu nome é <strong>Manassés Almeida!</strong>
 
 💼 Desenvolvedor Front-End apaixonado pela Tecnologia da Informação 
 
@@ -10,7 +10,6 @@ Experiência sólida como Desenvolvedor Front-End, com habilidades em HTML, CSS,
 Amplo conhecimento em Tecnologia da Informação, Orientação Educacional, Planejamento Estratégico, Supervisão Administrativa e Análise de Procedimentos Operacionais.
 Comunicação básica em Inglês, Espanhol e Libras, permitindo interações inclusivas com pessoas com deficiência auditiva.
 Engajado em trabalhos voluntários de apoio assistencial, oferecendo suporte a enfermos, idosos, pessoas com deficiência, crianças e adolescentes.
-🌟 Estou em busca de novas oportunidades que me permitam aplicar minhas habilidades técnicas e experiência administrativa para criar soluções inovadoras e contribuir para um mundo melhor. Se você procura um profissional comprometido, apaixonado pela tecnologia e com uma visão de impacto social, adoraria conectar-me com você.
 
 ## 🔭 Projetos
 ## React e API's  https://github.com/manassesdev2/projeto-pokedex
