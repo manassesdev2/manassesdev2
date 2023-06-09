@@ -39,8 +39,9 @@ Engajado em trabalhos voluntários de apoio assistencial, oferecendo suporte a e
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
 </p>  
-
-
+https://www.linkedin.com/in/devmanasses/
+manasses2@gmail.com
+(83) 99971-0744
 
 
 
