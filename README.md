@@ -22,24 +22,11 @@ Experiência sólida como Desenvolvedor Front-End, com habilidades em HTML, CSS,
 Amplo conhecimento em Tecnologia da Informação, Orientação Educacional, Planejamento Estratégico, Supervisão Administrativa e Análise de Procedimentos Operacionais.
 Comunicação básica em Inglês, Espanhol e Libras, permitindo interações inclusivas com pessoas com deficiência auditiva.
 Engajado em trabalhos voluntários de apoio assistencial, oferecendo suporte a enfermos, idosos, pessoas com deficiência, crianças e adolescentes.
-
+<!--![Snake animation](https://github.com/jnthmota/jnthmota/blob/output/github-contribution-grid-snake.gif)-->
+![Snake animation](https://github.com/jnthmota/jnthmota/blob/output/github-contribution-grid-snake.svg)
 ## 🔭 Projetos
 ## React e API's  https://github.com/manassesdev2/projeto-pokedex
 ## Front React https://github.com/manassesdev2/projeto-front-react
 ## Introdução Web JavaScript https://github.com/manassesdev2/repos-projeto-js
 ----
-
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-</p>  
-(83) 99971-0744
-
-
-
-
----
-
-
 
