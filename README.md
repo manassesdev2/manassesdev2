@@ -1,6 +1,11 @@
 ## Olá, meu nome é <strong>Manassés Almeida!</strong>
 ## You are welcome!</strong>
 ##
+
+<!-- Gif Traço -->
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif">
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devmanasses/)](https://www.linkedin.com/in/devmanasses/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:manasses2@gmail.com)](mailto:manasses2@gmail.com)
 
