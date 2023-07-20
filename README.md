@@ -19,7 +19,7 @@
 
 ##
 <p align="left"> 
-💼 Desenvolvedor de Software/ Administrador apaixonado pela Tecnologia da Informação. Tenho o privilégio de ser um entusiasta da área de TI, com experiências administrativas enriquecedoras que impulsionam minha atuação como desenvolvedor. Percebi que a Tecnologia da Informação oferece a oportunidade de fazer um impacto significativo no mundo. Desde a criação de novas tecnologias até a resolução de problemas complexos, acredito que profissionais de TI têm um papel importante em tornar o mundo um lugar melhor e mais sustentável.
+💼 Desenvolvedor de Software/ Administrador apaixonado pela Tecnologia da Informação. 
 
   🎯 Síntese de Qualificações Profissionais:
 
