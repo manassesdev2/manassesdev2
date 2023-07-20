@@ -19,7 +19,7 @@
 
 ##
 <p align="left"> 
-💼 Desenvolvedor Front-End apaixonado pela Tecnologia da Informação. Tenho o privilégio de ser um entusiasta da área de TI, com experiências administrativas enriquecedoras que impulsionam minha atuação como desenvolvedor. Percebi que a Tecnologia da Informação oferece a oportunidade de fazer um impacto significativo no mundo. Desde a criação de novas tecnologias até a resolução de problemas complexos, acredito que profissionais de TI têm um papel importante em tornar o mundo um lugar melhor e mais sustentável.
+💼 Desenvolvedor de Software/ Administrador apaixonado pela Tecnologia da Informação. Tenho o privilégio de ser um entusiasta da área de TI, com experiências administrativas enriquecedoras que impulsionam minha atuação como desenvolvedor. Percebi que a Tecnologia da Informação oferece a oportunidade de fazer um impacto significativo no mundo. Desde a criação de novas tecnologias até a resolução de problemas complexos, acredito que profissionais de TI têm um papel importante em tornar o mundo um lugar melhor e mais sustentável.
 
   🎯 Síntese de Qualificações Profissionais:
 
@@ -31,7 +31,8 @@ Engajado em trabalhos voluntários de apoio assistencial, oferecendo suporte a e
 ![Snake animation](https://github.com/jnthmota/jnthmota/blob/output/github-contribution-grid-snake.svg)
 ## 🔭 Projetos
 ## React e API's  https://github.com/manassesdev2/projeto-pokedex
-## Front React https://github.com/manassesdev2/projeto-front-react
-## Introdução Web JavaScript https://github.com/manassesdev2/repos-projeto-js
+## Front React  https://github.com/manassesdev2/projeto-front-react
+## Introdução Web JavaScript  https://github.com/manassesdev2/repos-projeto-js
+## Projeto Labecommerce  https://github.com/manassesdev2/labecommerce-backend
 ----
 
