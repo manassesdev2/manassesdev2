@@ -23,10 +23,10 @@
 
   🎯 Síntese de Qualificações Profissionais:
 
-Formado em Desenvolvimento de Software pela Labenu e Bacharel em Administração. Experiência sólida como Desenvolvedor de software, com habilidades em HTML, CSS, Javascript e React.JS.
-Amplo conhecimento em Tecnologia da Informação, Orientação Educacional, Planejamento Estratégico, Administração e Análise de Procedimentos Operacionais.
-Comunicação básica em Inglês, Espanhol e Libras, permitindo interações inclusivas com pessoas com deficiência auditiva.
-Engajado em trabalhos voluntários de apoio assistencial, oferecendo suporte a enfermos, idosos, pessoas com deficiência, crianças e adolescentes.
+Cursando Gestão da Tecnologia da Informação (Unicesumar), Técnico em Desenvolvimento de Software (Labenu) e Bacharel em Administração (UEPB). Experiência sólida como Desenvolvedor de software, com habilidades em HTML, CSS, Javascript e React.JS.
+Amplo conhecimento em Tecnologia da Informação, Área Comercial, Orientação Educacional, Planejamento Estratégico, Administração e Análise de Procedimentos Operacionais.
+Comunicação básica em Inglês, Espanhol e Libras.
+Engajado em trabalhos voluntários de apoio assistencial, oferecendo suporte a grupos vulneráveis, enfermos, idosos, PCDs, crianças e adolescentes.
 <!--![Snake animation](https://github.com/jnthmota/jnthmota/blob/output/github-contribution-grid-snake.gif)-->
 ![Snake animation](https://github.com/jnthmota/jnthmota/blob/output/github-contribution-grid-snake.svg)
 ## 🔭 Projetos
