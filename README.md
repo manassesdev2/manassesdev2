@@ -22,7 +22,7 @@
 
 ##
 <p align="left"> 
-💼 Desenvolvedor de Software/ Administrador apaixonado pela Tecnologia da Informação. 
+💼 Profissional apaixonado pela Tecnologia da Informação. 
 
   🎯 Síntese de Qualificações Profissionais:
 
