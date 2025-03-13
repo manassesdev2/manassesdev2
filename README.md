@@ -1,4 +1,4 @@
-## Olá, meu nome é <strong>Manassés Almeida!</strong>
+## Olá, sou <strong>Manassés Almeida!</strong>
 ## You are welcome!</strong>
 ##
 
